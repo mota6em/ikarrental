@@ -58,6 +58,42 @@
 - Implement a payment system.
 - Improve UI responsiveness.
 
+
+## ScreenShots
+
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/5ff5cf17-572f-41b6-a68e-172c1bcba653)  
+_The main page showing all available cars with options to filter by criteria._
+
+### Filter Section
+![Filter Section](https://github.com/user-attachments/assets/b1e82dab-1a46-4823-8d5a-618e54ee6b84)  
+_Users can filter cars by date, transmission type, seats, and price._
+
+### Cars Section
+![Cars Section](https://github.com/user-attachments/assets/3165e7b3-3a3b-4205-b81a-0eb1222a5901)  
+_A list of available cars displayed based on selected filters._
+
+### Car Page
+![Car Page](https://github.com/user-attachments/assets/e99f40a0-0465-4203-8e75-37e58713fc27)  
+_Detailed view of a selected car, including its specs and booking options._
+
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/eef3820e-1c2c-4dc0-bc35-693f49603e58)  
+_User login page to access personal profiles and booking features._
+
+### Register Page
+![Register Page](https://github.com/user-attachments/assets/fa0b9a85-0d34-45b7-9cff-ed0e993dbf19)  
+_User registration form for creating a new account on the platform._
+
+### Profile Page (Admin)
+![Profile Page (Admin)](https://github.com/user-attachments/assets/7f036f6c-1e01-4785-92d2-73a64497dbcf)  
+_Admin’s profile page showing all car bookings and management options._
+
+### Profile Page (User)
+![Profile Page (User)](https://github.com/user-attachments/assets/cd64a6f4-ea38-4710-9dce-87c915ae8c11)  
+_User profile displaying the list of car bookings and user settings._
+
+
 ## Author
 
 - Developed by **Motasem AbuBaraka** for a university project.
