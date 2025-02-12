@@ -1,0 +1,258 @@
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+}
+
+.main {
+  background-image: url(../../assets/imgs/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-shadow: 0px 0px 15px black;
+  width: 100% !important;
+  height: 100vh;
+}
+.num-font {
+  font-family: sans-serif !important;
+}
+#cars-sec,
+.profile-card,
+.car-details {
+  font-family: serif !important;
+}
+.car-page {
+  height: 38.5rem !important;
+  padding-top: 3.5rem;
+}
+.profile-card {
+  height: 14rem !important;
+}
+.profile-card-admin {
+  height: 18.5rem !important;
+}
+header {
+  background-color: goldenrod;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.146);
+}
+.logo {
+  font-family: "CrotahFreeVersionItalic", sans-serif;
+}
+.ff-cfv {
+  font-family: Monospace, sans-serif;
+  text-transform: uppercase;
+}
+.goldenrod {
+  color: goldenrod;
+}
+#bx-sun {
+  display: none;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.bg-b {
+  background-color: black !important;
+}
+.bg-w {
+  background-color: white;
+}
+
+.bg-d {
+  background-color: #1c1c1c !important;
+}
+.bg-g {
+  background: rgb(91, 91, 91);
+}
+
+.card-light {
+  background-color: white !important;
+}
+.card-dimensions {
+  width: 15rem !important;
+  height: 19.5rem;
+  margin: 2rem auto;
+  padding-bottom: 0.51rem;
+}
+.card-black {
+  background-color: rgb(56, 57, 49) !important;
+}
+.txt-b {
+  color: black !important;
+}
+.txt-w {
+  color: white !important;
+}
+.txt-g {
+  color: rgb(43, 44, 58) !important;
+}
+.txt-gd {
+  color: rgb(192, 161, 89) !important;
+}
+.ts {
+  text-shadow: 0px 0px 2px rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: 1.2rem;
+  padding: 0;
+}
+.card-img {
+  border-radius: 5px 5px 0 0 !important;
+  transition: transform 0.3s ease;
+  height: 10.5rem !important;
+  object-fit: cover;
+}
+.card:hover .card-img {
+  transform: scale(1.1);
+}
+.card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  max-height: 350px !important;
+}
+.card .position-absolute {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.card:hover .position-absolute {
+  transform: translateY(-2.5px);
+  /* background-color: rgba(0, 0, 0, 0.8); */
+}
+.card-body {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.profile-card-img {
+  border-radius: 5px 5px 0 0 !important;
+}
+.booking-result-img {
+  width: 20%;
+}
+.filter-btns {
+  width: 8rem;
+  font-size: 0.99rem;
+}
+
+
+.flatpickr-day.nextMonthDay,
+.flatpickr-day.prevMonthDay {
+  color: #000;
+  opacity: 1 !important;
+}
+.flatpickr-day.flatpickr-disabled {
+  color: #ff0000 !important; 
+  pointer-events: none;
+  opacity: 0.15 !important;
+  cursor: not-allowed;
+}
+
+.fdc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  z-index: 1000;
+}
+.del-btn,.edit-btn{
+  top: 2.5px !important;
+  right: 2.5px !important;
+  padding: 2px !important;
+  text-shadow: 0px 0px 2px black;
+}
+.edit-btn a { 
+  text-decoration: none;
+  color: white;
+}
+/* 
+ */
+/* Fonts */
+@font-face {
+  font-family: "CrotahFreeVersionItalic";
+  src: url("../fonts/CrotahFreeVersionItalic-z8Ev3.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+}
+
+/* 
+*
+* 
+*/
+/* responsive design */
+@media (max-width: 786px) {
+  .main-sec {
+    background-image: url(../imgs/sm-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-shadow: 0px 0px 15px black;
+    width: 100% !important;
+    padding: 0rem;
+    margin-top: 0;
+    border-radius: 0;
+  }
+  .main {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.164);
+    outline: 0.5px solid rgba(255, 255, 255, 0.212);
+  }
+}
+
+
+@media (min-width: 769px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+  .car-page-img {
+    width: 45% !important;
+  }
+  .profile-img,
+  .register-img {
+    width: 45% !important;
+  }
+}
+@media (min-width: 550px) and (max-width: 768px) {
+  .car-page-img {
+    width: 85% !important;
+  }
+  .booking-result-img {
+    width: 65% !important;
+  }
+  .jcc {
+    display: flex;
+    justify-content: center !important;
+  }
+}
+@media (max-width: 549px) {
+  .booking-result-img {
+    width: 80% !important;
+  }
+  .profile-img,
+  .register-img {
+    width: 75% !important;
+  }
+  .jcc {
+    display: flex;
+    justify-content: center !important;
+  }
+  .card-dimensions {
+    width: 19rem !important;
+  }
+  .brand-name {
+    font-size: 1.8rem !important;
+  }
+}

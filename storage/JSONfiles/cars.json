@@ -1,0 +1,222 @@
+{
+    "5": {
+        "id": "5",
+        "brand": "Tesla",
+        "model": "Model S",
+        "passengers": 5,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 45000,
+        "year": 2021,
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-s\/2021\/oem\/2021_tesla_model-s_sedan_plaid_fq_oem_1_815.jpg"
+    },
+    "7": {
+        "id": 7,
+        "brand": "Chevrolet",
+        "model": "Suburban",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 8,
+        "daily_price_huf": 24000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/chevrolet\/suburban\/2021\/oem\/2021_chevrolet_suburban_4dr-suv_high-country_fq_oem_1_815.jpg"
+    },
+    "8": {
+        "id": 8,
+        "brand": "Rivian",
+        "model": "R1T",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 5,
+        "daily_price_huf": 40000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/rivian\/r1t\/2022\/oem\/2022_rivian_r1t_crew-cab-pickup_launch-edition_fq_oem_1_815.jpg"
+    },
+    "9": {
+        "id": 9,
+        "brand": "Tesla",
+        "model": "Model X",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 7,
+        "daily_price_huf": 48000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-x\/2024\/oem\/2024_tesla_model-x_4dr-suv_plaid_fq_oem_1_815.jpg"
+    },
+    "676b1a18d8718": {
+        "id": "676b1a18d8718",
+        "brand": "Cristiano",
+        "model": "CR7",
+        "passengers": 4,
+        "transmission": "automatic",
+        "fuel_type": "diesel",
+        "daily_price_huf": 11119,
+        "year": 1985,
+        "image": "https:\/\/cdn.images.express.co.uk\/img\/dynamic\/24\/1200x712\/4544977.jpg?r=1675440585362"
+    },
+    "676b1a5e19f40": {
+        "id": "676b1a5e19f40",
+        "brand": "Cr7",
+        "model": "2009",
+        "passengers": 2,
+        "transmission": "manual",
+        "fuel_type": "electric",
+        "daily_price_huf": 99995,
+        "year": 2019,
+        "image": "https:\/\/i.redd.it\/h978g5ovk8b71.jpg"
+    },
+    "676b1bee6add7": {
+        "brand": "BMW",
+        "model": "The Best",
+        "passengers": 4,
+        "transmission": "automatic",
+        "fuel_type": "diesel",
+        "daily_price_huf": 88999,
+        "year": 2017,
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQgy3Vihtm_EdW3klYnE0IsHeMwpRMnHJGmng&s",
+        "id": "676b1bee6add7"
+    },
+    "676b1c3c2e671": {
+        "id": "676b1c3c2e671",
+        "brand": "BMW",
+        "model": "2024",
+        "passengers": 4,
+        "transmission": "manual",
+        "fuel_type": "electric",
+        "daily_price_huf": 69000,
+        "year": 2024,
+        "image": "https:\/\/content.homenetiol.com\/2000292\/2253492\/0x0\/6aebf065adef4833bbade6315c2d4268.jpg"
+    },
+    "676b1dbb9205f": {
+        "brand": "Ben Baraka",
+        "model": "M4",
+        "passengers": 4,
+        "transmission": "manual",
+        "fuel_type": "electric",
+        "daily_price_huf": 999995,
+        "year": 2024,
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTfezZvD_1r0-5iFvrJ1vnDeIfRkfLTAh8sxw&s",
+        "id": "676b1dbb9205f"
+    },
+    "676b1e2e24893": {
+        "brand": "BMW",
+        "model": "m48",
+        "passengers": 2,
+        "transmission": "automatic",
+        "fuel_type": "diesel",
+        "daily_price_huf": 49599,
+        "year": 2016,
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTJEJEFKIrHmXD5YVccLpWctuYKym8E9MKOBA&s",
+        "id": "676b1e2e24893"
+    },
+    "676b2f35dcea8": {
+        "brand": "QUDS",
+        "model": "2025",
+        "passengers": 2,
+        "transmission": "automatic",
+        "fuel_type": "electric",
+        "daily_price_huf": 9999999,
+        "year": 2024,
+        "image": "https:\/\/i0.wp.com\/driveteslacanada.ca\/wp-content\/uploads\/2020\/02\/Electra-QUDS-EV.jpg?resize=998%2C665&ssl=1",
+        "id": "676b2f35dcea8"
+    },
+    "676c42d9beda1": {
+        "id": "676c42d9beda1",
+        "brand": "Merscidess",
+        "model": "S698",
+        "passengers": 2,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 959993,
+        "year": 2024,
+        "image": "https:\/\/images.pexels.com\/photos\/112460\/pexels-photo-112460.jpeg?cs=srgb&dl=pexels-mikebirdy-112460.jpg&fm=jpg"
+    },
+    "677ec5dfc450e": {
+        "brand": "Subaru",
+        "model": "Impreza3",
+        "passengers": 5,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 12000,
+        "year": 2012,
+        "image": "https:\/\/media.ed.edmunds-media.com\/subaru\/impreza\/2022\/oem\/2022_subaru_impreza_4dr-hatchback_limited_fq_oem_1_815.jpg",
+        "id": "677ec5dfc450e"
+    },
+    "677ec6938beaa": {
+        "brand": "Niss",
+        "model": "Altima",
+        "passengers": 5,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 14400,
+        "year": 2016,
+        "image": "https:\/\/media.ed.edmunds-media.com\/nissan\/altima\/2016\/oem\/2016_nissan_altima_sedan_25-sr_fq_oem_1_815.jpg",
+        "id": "677ec6938beaa"
+    },
+    "677ec7237529a": {
+        "brand": "Honda3",
+        "model": "Civic",
+        "passengers": 5,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 16250,
+        "year": 2019,
+        "image": "https:\/\/media.ed.edmunds-media.com\/honda\/civic\/2019\/oem\/2019_honda_civic_sedan_touring_fq_oem_1_815.jpg",
+        "id": "677ec7237529a"
+    },
+    "6782f67f1392c": {
+        "brand": "Test",
+        "model": "Car",
+        "passengers": 10,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "daily_price_huf": 25252525,
+        "year": 2025,
+        "image": "https:\/\/images.unsplash.com\/photo-1614687153862-b0e115ebcef1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIwY2FyfGVufDB8fDB8fHww",
+        "id": "6782f67f1392c"
+    },
+    "678387e795510": {
+        "brand": "Test",
+        "model": "3",
+        "passengers": 5,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "daily_price_huf": 1500,
+        "year": 2000,
+        "image": "https:\/\/www.kbb.com\/wp-content\/uploads\/2022\/08\/2022-mercedes-amg-eqs-front-left-3qtr.jpg",
+        "id": "678387e795510"
+    },
+    "67838e311e7f5": {
+        "brand": "Last Test",
+        "model": "12",
+        "passengers": 3,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "daily_price_huf": 49000,
+        "year": 2025,
+        "image": "https:\/\/i0.wp.com\/www.italycarrent.com\/wp-content\/uploads\/product\/212\/flotta_0003_panda.jpg?fit=1600%2C900&ssl=1",
+        "id": "67838e311e7f5"
+    },
+    "67838e7cd236e": {
+        "brand": "TEst",
+        "model": "030",
+        "passengers": 3,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "daily_price_huf": 202020,
+        "year": 2025,
+        "image": "https:\/\/i0.wp.com\/www.italycarrent.com\/wp-content\/uploads\/product\/212\/flotta_0003_panda.jpg?fit=1600%2C900&ssl=1",
+        "id": "67838e7cd236e"
+    },
+    "6786a5828d022": {
+        "id": "6786a5828d022",
+        "brand": "Final",
+        "model": "TST2",
+        "passengers": 10,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "daily_price_huf": 29500,
+        "year": 2025,
+        "image": "https:\/\/images.pexels.com\/photos\/170811\/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    }
+}

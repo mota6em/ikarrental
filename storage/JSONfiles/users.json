@@ -1,0 +1,72 @@
+{
+    "1": {
+        "name": "Super Admin",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "role": "admin",
+        "id": "1"
+    },
+    "676c1d3f22055": {
+        "name": "mo baraka",
+        "email": "mota6em@gmail.com",
+        "password": "mobaraka",
+        "role": "user",
+        "id": "676c1d3f22055"
+    },
+    "676c20842d476": {
+        "name": "AM Motasem",
+        "email": "motasimbaraka11@gmail.com",
+        "password": "2",
+        "role": "user",
+        "id": "676c20842d476"
+    },
+    "676c436935669": {
+        "name": "Rossi Marco",
+        "email": "6@gmail.com",
+        "password": "6",
+        "role": "user",
+        "id": "676c436935669"
+    },
+    "676c8c74b07b9": {
+        "name": "Rauf MB",
+        "email": "r@r.r",
+        "password": "r",
+        "role": "user",
+        "id": "676c8c74b07b9"
+    },
+    "6771ba0bdd526": {
+        "name": "Rossi Marco",
+        "email": "0@0.com",
+        "password": "0",
+        "role": "admin",
+        "id": "6771ba0bdd526"
+    },
+    "6781a07944285": {
+        "name": "KAR LOS",
+        "email": "K@k.k",
+        "password": "k",
+        "role": "user",
+        "id": "6781a07944285"
+    },
+    "67838ec75702c": {
+        "name": "Mo 3araka ",
+        "email": "motasimbaraka65@gmail.com",
+        "password": "s",
+        "role": "user",
+        "id": "67838ec75702c"
+    },
+    "678395300ba17": {
+        "name": "Daik VAn",
+        "email": "d@d.d",
+        "password": "d",
+        "role": "user",
+        "id": "678395300ba17"
+    },
+    "6786a5c4679d2": {
+        "name": "ex mo",
+        "email": "x@x.x",
+        "password": "x",
+        "role": "user",
+        "id": "6786a5c4679d2"
+    }
+}
