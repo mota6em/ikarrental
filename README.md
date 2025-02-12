@@ -80,6 +80,7 @@ _Detailed view of a selected car, including its specs and booking options._
 ### Add a new car (admin)
 ![image](https://github.com/user-attachments/assets/d9eb4354-e828-4340-a82c-e0cbc7729a03)
 ![image](https://github.com/user-attachments/assets/e7f2b05d-b422-4f48-ae70-ac79509c30d4)
+_The admin page to add a new car to the platform, filling in the car's details, such as brand, model, and price._  
 
 ### Booking a Car
 ![Booking a Car](https://github.com/user-attachments/assets/39303cd0-5819-4a5d-8a93-03d5e6220832)  
